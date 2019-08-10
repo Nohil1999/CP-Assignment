@@ -1,24 +1,3 @@
-
-
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-
-4 of 1,047
-trip
-Inbox
-x
-
-Soham Joshi <sohamsjoshi98@gmail.com>
-Attachments
-12:52 AM (45 minutes ago)
-to me
-
-
-Attachments area
-
 #include <iostream>
 #include <fstream>
 #include <string>
